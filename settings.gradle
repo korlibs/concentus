@@ -1,0 +1,3 @@
+rootProject.name = "concentus-root"
+
+include(":concentus-java")

@@ -1,0 +1,113 @@
+{
+  "formatVersion": "1.1",
+  "component": {
+    "group": "com.soywiz.org.concertus",
+    "module": "concertus-core",
+    "version": "0.0.1-SNAPSHOT",
+    "attributes": {
+      "org.gradle.status": "integration"
+    }
+  },
+  "createdBy": {
+    "gradle": {
+      "version": "7.6.1"
+    }
+  },
+  "variants": [
+    {
+      "name": "apiElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-api",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "files": [
+        {
+          "name": "concertus-core-0.0.1-SNAPSHOT.jar",
+          "url": "concertus-core-0.0.1-SNAPSHOT.jar",
+          "size": 413907,
+          "sha512": "a3364f843e8bdd32925190dfc2e6237f342daf941b3d96ecafb465458f860a10435b5e694b74ee18589afd5b791e93ae52cabe90836cad7b2be3d247fadb36bb",
+          "sha256": "9e9085400142f5410f3a5802970706d11da670581ba9bb65efacb7d9fff2c5b0",
+          "sha1": "0ca55e7990d862d11304bf1a94cda3e0fd306fc1",
+          "md5": "1760f38837eab9849676377e3a5a7c43"
+        }
+      ]
+    },
+    {
+      "name": "runtimeElements",
+      "attributes": {
+        "org.gradle.category": "library",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.jvm.environment": "standard-jvm",
+        "org.gradle.jvm.version": 17,
+        "org.gradle.libraryelements": "jar",
+        "org.gradle.usage": "java-runtime",
+        "org.jetbrains.kotlin.platform.type": "jvm"
+      },
+      "dependencies": [
+        {
+          "group": "org.jetbrains.kotlin",
+          "module": "kotlin-stdlib-jdk8",
+          "version": {
+            "requires": "1.8.21"
+          }
+        }
+      ],
+      "files": [
+        {
+          "name": "concertus-core-0.0.1-SNAPSHOT.jar",
+          "url": "concertus-core-0.0.1-SNAPSHOT.jar",
+          "size": 413907,
+          "sha512": "a3364f843e8bdd32925190dfc2e6237f342daf941b3d96ecafb465458f860a10435b5e694b74ee18589afd5b791e93ae52cabe90836cad7b2be3d247fadb36bb",
+          "sha256": "9e9085400142f5410f3a5802970706d11da670581ba9bb65efacb7d9fff2c5b0",
+          "sha1": "0ca55e7990d862d11304bf1a94cda3e0fd306fc1",
+          "md5": "1760f38837eab9849676377e3a5a7c43"
+        }
+      ]
+    },
+    {
+      "name": "javadocElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "javadoc",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "concertus-core-0.0.1-SNAPSHOT-javadoc.jar",
+          "url": "concertus-core-0.0.1-SNAPSHOT-javadoc.jar",
+          "size": 261,
+          "sha512": "67f7496326fcba614259fa3029dd7aa6ff04e75eb946b93af48787569d9e53b1e80353dccd19e93aaba28751dde00646b8ecdd185a2548b38d3179c5e82f9244",
+          "sha256": "2e2928e4e76fe4e6b7bf2804a18e4e3e340a3b124876ce0884ee70f26bc962ff",
+          "sha1": "777bc43f1e9105ff4a8a59c76e1f65276b82e17e",
+          "md5": "db60ab31ce51fa88071ca10032ea8146"
+        }
+      ]
+    },
+    {
+      "name": "sourcesElements",
+      "attributes": {
+        "org.gradle.category": "documentation",
+        "org.gradle.dependency.bundling": "external",
+        "org.gradle.docstype": "sources",
+        "org.gradle.usage": "java-runtime"
+      },
+      "files": [
+        {
+          "name": "concertus-core-0.0.1-SNAPSHOT-sources.jar",
+          "url": "concertus-core-0.0.1-SNAPSHOT-sources.jar",
+          "size": 451754,
+          "sha512": "d45bac88a4fe8a16cf5cf240bdd2bb903caeff463461e6f05474c1fdf624fc47232feb1e087b98528e25357b5105d6edbb851f3eab965ddb402bc750fcd03b9a",
+          "sha256": "d29ff88c359cf02fe04db07439012b9c5133a68df387cb25b7358312d4f80aff",
+          "sha1": "202dd8a6570a6b411707c8f20bab3ef21917d30c",
+          "md5": "913a5ab164d90a6be81b72064a75bb86"
+        }
+      ]
+    }
+  ]
+}

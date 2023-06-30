@@ -1,0 +1,13 @@
+.DS_Store
+.fleet
+.idea
+.gradle
+/build
+/kproject-common/build
+/kproject-project/build
+/kproject-settings/build
+/prototype/build
+/prototype/src/build
+/prototype/src/build.gradle
+/prototype/build.gradle
+/prototype/gradle/build.gradle.kts
