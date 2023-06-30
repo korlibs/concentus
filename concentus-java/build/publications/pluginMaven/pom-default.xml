@@ -7,15 +7,15 @@
   <!-- do_not_remove: published-with-gradle-metadata -->
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.soywiz.org.concertus</groupId>
-  <artifactId>concertus-core</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
-  <name>concertus-core</name>
+  <artifactId>concentus-java</artifactId>
+  <version>0.0.1</version>
+  <name>concentus-java</name>
   <description>Opus Java implementation</description>
-  <url>https://github.com/korlibs/kproject.git</url>
+  <url>https://github.com/korlibs/concentus.git</url>
   <licenses>
     <license>
       <name>MIT</name>
-      <url>https://github.com/korlibs/kproject/LICENSE.md</url>
+      <url>https://github.com/lostromb/concentus/blob/master/LICENSE</url>
     </license>
   </licenses>
   <developers>
@@ -26,7 +26,7 @@
     </developer>
   </developers>
   <scm>
-    <url>https://github.com/korlibs/kproject.git</url>
+    <url>https://github.com/korlibs/concentus.git</url>
   </scm>
   <dependencies>
     <dependency>

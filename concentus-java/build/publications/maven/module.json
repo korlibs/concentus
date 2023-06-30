@@ -2,15 +2,15 @@
   "formatVersion": "1.1",
   "component": {
     "group": "com.soywiz.org.concertus",
-    "module": "concertus-core",
-    "version": "0.0.1-SNAPSHOT",
+    "module": "concentus-java",
+    "version": "0.0.1",
     "attributes": {
-      "org.gradle.status": "integration"
+      "org.gradle.status": "release"
     }
   },
   "createdBy": {
     "gradle": {
-      "version": "7.6.1"
+      "version": "8.1.1"
     }
   },
   "variants": [
@@ -27,13 +27,13 @@
       },
       "files": [
         {
-          "name": "concertus-core-0.0.1-SNAPSHOT.jar",
-          "url": "concertus-core-0.0.1-SNAPSHOT.jar",
+          "name": "concentus-java-0.0.1.jar",
+          "url": "concentus-java-0.0.1.jar",
           "size": 413907,
-          "sha512": "a3364f843e8bdd32925190dfc2e6237f342daf941b3d96ecafb465458f860a10435b5e694b74ee18589afd5b791e93ae52cabe90836cad7b2be3d247fadb36bb",
-          "sha256": "9e9085400142f5410f3a5802970706d11da670581ba9bb65efacb7d9fff2c5b0",
-          "sha1": "0ca55e7990d862d11304bf1a94cda3e0fd306fc1",
-          "md5": "1760f38837eab9849676377e3a5a7c43"
+          "sha512": "b0536ee29f5973530e22dc34a329dc0482713bdc7a514ff306017494de693c677f2a1b04be662b65dba3ede12f80f596a685ce811c675a015eb762803186acfe",
+          "sha256": "2b9b70d65cf026de9dfff2f646e1bb3717381078afe13af74724d100055103c9",
+          "sha1": "08512a9d64ccba235dd6ede79259100c7193c377",
+          "md5": "bd02f2088719aa537c088f42226aec25"
         }
       ]
     },
@@ -59,13 +59,13 @@
       ],
       "files": [
         {
-          "name": "concertus-core-0.0.1-SNAPSHOT.jar",
-          "url": "concertus-core-0.0.1-SNAPSHOT.jar",
+          "name": "concentus-java-0.0.1.jar",
+          "url": "concentus-java-0.0.1.jar",
           "size": 413907,
-          "sha512": "a3364f843e8bdd32925190dfc2e6237f342daf941b3d96ecafb465458f860a10435b5e694b74ee18589afd5b791e93ae52cabe90836cad7b2be3d247fadb36bb",
-          "sha256": "9e9085400142f5410f3a5802970706d11da670581ba9bb65efacb7d9fff2c5b0",
-          "sha1": "0ca55e7990d862d11304bf1a94cda3e0fd306fc1",
-          "md5": "1760f38837eab9849676377e3a5a7c43"
+          "sha512": "b0536ee29f5973530e22dc34a329dc0482713bdc7a514ff306017494de693c677f2a1b04be662b65dba3ede12f80f596a685ce811c675a015eb762803186acfe",
+          "sha256": "2b9b70d65cf026de9dfff2f646e1bb3717381078afe13af74724d100055103c9",
+          "sha1": "08512a9d64ccba235dd6ede79259100c7193c377",
+          "md5": "bd02f2088719aa537c088f42226aec25"
         }
       ]
     },
@@ -79,13 +79,13 @@
       },
       "files": [
         {
-          "name": "concertus-core-0.0.1-SNAPSHOT-javadoc.jar",
-          "url": "concertus-core-0.0.1-SNAPSHOT-javadoc.jar",
+          "name": "concentus-java-0.0.1-javadoc.jar",
+          "url": "concentus-java-0.0.1-javadoc.jar",
           "size": 261,
-          "sha512": "67f7496326fcba614259fa3029dd7aa6ff04e75eb946b93af48787569d9e53b1e80353dccd19e93aaba28751dde00646b8ecdd185a2548b38d3179c5e82f9244",
-          "sha256": "2e2928e4e76fe4e6b7bf2804a18e4e3e340a3b124876ce0884ee70f26bc962ff",
-          "sha1": "777bc43f1e9105ff4a8a59c76e1f65276b82e17e",
-          "md5": "db60ab31ce51fa88071ca10032ea8146"
+          "sha512": "265097c07640aca6dd75ec94defa75cae6bc34a8a521478e301659f9454e181ce349cd90142042fc340e0c36f74ec2c9701fa1c3be3ae02d918826aa90c39af8",
+          "sha256": "2d38a849f1c202a3df032cbe82ddb662caea63582b5ae8dc19a67570b44cb808",
+          "sha1": "1d01ad0ebb85cc708d48ec4f20b469222d3734ae",
+          "md5": "0e64204ce754dc8aa9c5813f97ab1dca"
         }
       ]
     },
@@ -99,13 +99,13 @@
       },
       "files": [
         {
-          "name": "concertus-core-0.0.1-SNAPSHOT-sources.jar",
-          "url": "concertus-core-0.0.1-SNAPSHOT-sources.jar",
+          "name": "concentus-java-0.0.1-sources.jar",
+          "url": "concentus-java-0.0.1-sources.jar",
           "size": 451754,
-          "sha512": "d45bac88a4fe8a16cf5cf240bdd2bb903caeff463461e6f05474c1fdf624fc47232feb1e087b98528e25357b5105d6edbb851f3eab965ddb402bc750fcd03b9a",
-          "sha256": "d29ff88c359cf02fe04db07439012b9c5133a68df387cb25b7358312d4f80aff",
-          "sha1": "202dd8a6570a6b411707c8f20bab3ef21917d30c",
-          "md5": "913a5ab164d90a6be81b72064a75bb86"
+          "sha512": "392da25b66b0f64ef9042d6d801ae0b7aa9b079417f71180381291b095e54619a7d29b342145ae912ba346ad0c84c3f3006e8e0e9b133e6726d1e2a896f4c93e",
+          "sha256": "e090ab39b564751dbe8e1937e44bc10bb8445aa2f8609ec830e7846916bd44c8",
+          "sha1": "529577268205eaba4811bb00e001ac00a1e006d0",
+          "md5": "5cc8374d7e3d899a865bcb6920e20fc9"
         }
       ]
     }
